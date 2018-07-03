@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPSServers", "MPSServers\MPSServers.csproj", "{95A77825-7BFB-4B1B-9BB3-9F90B2A5E343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetData", "GetData\GetData.csproj", "{711C140E-8640-4249-BB98-A234052BB559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{7646115A-2070-42E3-9F9C-AE2FF5F21FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A77825-7BFB-4B1B-9BB3-9F90B2A5E343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A77825-7BFB-4B1B-9BB3-9F90B2A5E343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A77825-7BFB-4B1B-9BB3-9F90B2A5E343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A77825-7BFB-4B1B-9BB3-9F90B2A5E343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711C140E-8640-4249-BB98-A234052BB559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711C140E-8640-4249-BB98-A234052BB559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711C140E-8640-4249-BB98-A234052BB559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711C140E-8640-4249-BB98-A234052BB559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7646115A-2070-42E3-9F9C-AE2FF5F21FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7646115A-2070-42E3-9F9C-AE2FF5F21FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7646115A-2070-42E3-9F9C-AE2FF5F21FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7646115A-2070-42E3-9F9C-AE2FF5F21FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
